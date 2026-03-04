@@ -5,7 +5,7 @@ We introduce a selective prediction framework for molecular structure retrieval 
 
 All experiments are conducted on the [MassSpecGym](https://github.com/pluskal-lab/MassSpecGym) benchmark.
 
-> **Paper**: [arXiv link TODO] · **Data**: [MassSpecGym](https://github.com/pluskal-lab/MassSpecGym)
+<!-- > **Paper**: [arXiv link TODO] · **Data**: [MassSpecGym](https://github.com/pluskal-lab/MassSpecGym) -->
 
 ## Installation
 
@@ -118,14 +118,14 @@ This work builds on the [MassSpecGym](https://github.com/pluskal-lab/MassSpecGym
 
 ## Citation
 
-```bibtex
+<!-- ```bibtex
 @article{TODO,
   title={When Should We Trust the Annotation? Selective Prediction for Molecular Structure Retrieval from Mass Spectra},
   author={TODO},
   journal={Journal of Cheminformatics},
   year={2025}
 }
-```
+``` -->
 
 ## License
 
